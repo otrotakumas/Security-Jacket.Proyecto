@@ -1,0 +1,120 @@
+
+
+section {
+  
+  }
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%) sepia(0%) saturate(750%) hue-rotate(130deg);
+  }
+
+  .carousel-caption {
+    color: #000000 !important; 
+  }
+
+  .carousel .carousel-indicators li {
+    background-color: #000000 !important;
+    opacity: 1;
+  }
+
+  .carousel .carousel-indicators li {
+    background-color: #000000 !important;
+    opacity: 1 !important;
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100% !important;
+    border: none !important;
+  }
+  
+  #objetivo {
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    padding: 80px; /* espacio entre el contenido y los lados */
+  }
+
+  #video {
+    background-color: #000000;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+
+  #encuesta {
+    background-color: #0000ffff;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+
+  #carrusel {
+    background-color: #000000;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+
+  #blanco{
+    background-color: #ffffff; /* color del container */
+    width: 100%; /* ocupa todo el ancho */
+    height: 100%; /* ocupa todo el alto */
+    box-sizing: border-box; /* incluye padding en el cálculo del ancho */
+  }
+
+  #justi {
+    background-color: white;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 60px;
+  }
+
+  #matriz {
+    background-color: white;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+
+  #avatar {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .accordion-button:not(.collapsed) {
+    color: #00000000;
+  }
+
+  .accordion-button {
+      color: red}
+
+.accordion-button {
+        color: red; /* reemplaza #tu_color con el color deseado */
+      }
+
+.col-sm-12 {
+  align-items: center;
+}
